@@ -8,9 +8,9 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Ethix-MD&LBN5gwBY",
       "required": true,
-      "value": ""
+      "value": "Ethix-MD&LBN5gwBY"
     },
     "MODE": {
       "description": "mode public or self",
@@ -65,7 +65,7 @@
     "PREFIX": {
       "description": "Your Bot Prefix default (.)",
       "required": false,
-      "value": ""
+      "value": "."
     }
     },
     "buildpacks": [
